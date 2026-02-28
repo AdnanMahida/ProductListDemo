@@ -11,7 +11,7 @@ For Demo download [APK](release/build/app-release.apk)
 
 ## Screen Recording
 
-![](release/recording/Screen_recording_20260228_085315.mp4)
+<video src='release/recording/Screen_recording_20260228_085315.mp4' />
 
 ## Screenshots
 
