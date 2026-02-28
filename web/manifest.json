@@ -1,6 +1,6 @@
 {
-    "name": "fake_product_demo",
-    "short_name": "fake_product_demo",
+    "name": "product_list_demo",
+    "short_name": "product_list_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

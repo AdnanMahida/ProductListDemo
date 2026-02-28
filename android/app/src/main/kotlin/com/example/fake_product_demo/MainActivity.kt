@@ -1,4 +1,4 @@
-package com.example.fake_product_demo
+package com.example.product_list_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
